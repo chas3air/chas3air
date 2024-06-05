@@ -69,12 +69,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/RashRacess" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/RashRacess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashRacess&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>My CodeWars Stats</b>
+<a href="http://www.github.com/RashRacess"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashRacess&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-[![codewars](https://www.codewars.com/users/RashRacess/badges/large)](https://www.codewars.com/users/RashRacess)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashRacess&&bg_color=000000&title_color=ffffff&point=facc15&line=a855f7&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)

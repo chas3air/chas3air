@@ -1,10 +1,16 @@
+.red-text {
+  color: red;
+}
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Аrtem
 =============================================================================================================================
+
 
 <b>Contacts</b>
 * ✉️  telegram: [@RashRacess](telegram:@RashRacess)
 
-### Skills
+<span class="red-text">Красный текст</span>
 
 <table>
   <tr>
@@ -65,13 +71,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </tr>
 </table>
 
-### Socials
-
-<a href="https://www.github.com/RashRacess" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Stats
-
-
 
 <a href="http://www.github.com/RashRacess"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashRacess&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 

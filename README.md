@@ -74,9 +74,9 @@
   
   <h3>Stats</h3>
   
-<p align="center"><a href="http://www.github.com/RashRacess"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashRacess&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a></p>
+<p align="center"><a href="http://www.github.com/chas3air"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chas3air&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a></p>
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RashRacess&&bg_color=000000&title_color=ffffff&point=facc15&line=a855f7&color=ffffff" alt="Github activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chas3air&&bg_color=000000&title_color=ffffff&point=facc15&line=a855f7&color=ffffff" alt="Github activity graph">
 
 </body>
 </html>

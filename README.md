@@ -8,7 +8,7 @@
   
   <h2>Contacts</h2>
   <ul>
-    <li>✉️ telegram: <a href="telegram:@RashRacess">@RashRacess</a></li>
+    <li>✉️ telegram: <a href="telegram:@chas3air">@chas3air</a></li>
   </ul>
   
   <h2>Stack</h2>

@@ -34,12 +34,6 @@
         <br>Go
       </td>
       <td align="center" width="96">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="48" height="48" alt="VS Code">
-        </a>
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL">
         </a>
@@ -74,7 +68,7 @@
   
   <h3>Stats</h3>
   
-<p align="center"><a href="http://www.github.com/chas3air"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chas3air&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a></p>
+<a href="http://www.github.com/chas3air"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chas3air&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
   
 <!-- [<img src="https://github-readme-activity-graph.vercel.app/graph?username=chas3air&&bg_color=000000&title_color=ffffff&point=facc15&line=a855f7&color=ffffff" alt="Github activity graph">](url) -->
 

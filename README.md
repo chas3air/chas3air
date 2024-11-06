@@ -2,30 +2,51 @@
 
 Люблю программировать. Пишу пет проекты, каждый день изучаю что-то новое и читаю техническую литературу.
 
-## Contacts
-- telegram: [@chas3air](telegram:@chas3air)
+## Контакты
+- Telegram: [@chas3air](telegram:@chas3air)
 
-## 🛠️ Stack
+### Статистика
 
-**Programming languages:**
-```Golang, C++, Javascript```
+![Metrics](metrics.plugin.isocalendar.svg)
 
-**Databases:**
-```Postgres, MySQL, Redis, Mongo```
+[![WakaTime](https://wakatime.com/badge/user/051e8565-c1c9-4e5e-8abb-2d4edba6e17d.svg)](https://wakatime.com/@051e8565-c1c9-4e5e-8abb-2d4edba6e17d)
 
-**Backend:**
-```gorilla/mux, Gin```
+![Просмотры профиля](https://komarev.com/ghpvc/?username=chas3air&label=Profile%20views&color=0e75b6&style=flat)
 
-**Frontend:**
-```HTML5, CSS3```
+## 🛠️ Стек технологий
 
-**Deployment:**
-```Docker, Docker-compose, Kubernetes, Github Actions, Linux```
-  
-### Stats
+**Языки программирования:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chas3air&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true)](http://www.github.com/chas3air)
+**Базы данных:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/051e8565-c1c9-4e5e-8abb-2d4edba6e17d.svg)](https://wakatime.com/@051e8565-c1c9-4e5e-8abb-2d4edba6e17d)
+**Бэкенд:**
+<div>
+  <img src="https://avatars.githubusercontent.com/u/489566?s=48&v=4" alt="Gorilla Mux" height="50"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" height="50"/>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=chas3air&label=Profile%20views&color=0e75b6&style=flat)
+**Фронтенд:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
+</div>
+
+**Развертывание:**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/>
+</div>

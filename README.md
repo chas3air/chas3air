@@ -1,10 +1,12 @@
 # Меня зовут Артем
 
-Люблю программировать. Пишу пет проекты, каждый день изучаю что-то новое и читаю техническую литературу.
+## О себе
+Я программист с более чем 2 годами опыта. За последний год поработал в различных командах. Пишу пет проеткы, а в свободное время читаю всякие книги
 
 ## Контакты
 - Telegram: [@chas3air](telegram:@chas3air)
-
+- LinkedIn: [artemisachenkov-chas3air](https://www.linkedin.com/in/artemisachenkov-chas3air)
+  
 ### Статистика
 
 ![Metrics](metrics.plugin.isocalendar.svg)

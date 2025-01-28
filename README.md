@@ -5,7 +5,6 @@
 
 ## Контакты
 - Telegram: [@chas3air](telegram:@chas3air)
-- LinkedIn: [artemisachenkov-chas3air](https://www.linkedin.com/in/artemisachenkov-chas3air)
   
 ### Статистика
 

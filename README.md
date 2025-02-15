@@ -35,6 +35,8 @@
 <div>
   <img src="https://avatars.githubusercontent.com/u/489566?s=48&v=4" alt="Gorilla Mux" height="50"/>
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" height="50"/>
+  <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" height="50"/>
+  <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="50"/> <!-- REST -->
 </div>
 
 **Фронтенд:**
@@ -46,7 +48,6 @@
 **Развертывание:**
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Compose" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/>

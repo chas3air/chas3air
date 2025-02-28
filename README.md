@@ -1,27 +1,36 @@
-# Меня зовут Артём
+<h1 align="center">Hi there, I'm Artem</h1>
+<h3 align="center">Golang Backend Developer</h3>
 
-## О себе
-Я программист с более чем 3 годами опыта. За последний год поработал в различных командах. Пишу пет проеткы, а в свободное время читаю всякие книги
-
-## Контакты
-- Telegram: [@chas3air](telegram:@chas3air)
-  
-### Статистика
+<hr>
 
 [![WakaTime](https://wakatime.com/badge/user/051e8565-c1c9-4e5e-8abb-2d4edba6e17d.svg)](https://wakatime.com/@051e8565-c1c9-4e5e-8abb-2d4edba6e17d)
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=chas3air&label=Profile%20views&color=0e75b6&style=flat)
+- 🌱 I’m currently learning **Go, Web**
 
-## 🛠️ Стек технологий
+- 📫 How to reach me **@chas3air**
 
-**Языки программирования:**
+- 🌍 I speak Russian (native), English (B1)
+
+<hr>
+
+### Connect with me:
+<p align="left">
+  <a href="https://t.me/chas3air" target="blank"><img align="center" src="./icons/Telegram_logo.svg.png" alt="daniilshat" height="40" width="40" /></a>
+</p>
+
+<hr>
+
+## 🛠️ Stack
+
+**Languages:**
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="50"/>
+  <img src="./icons/python-logo.jpg" alt="Python" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
 </div>
 
-**Базы данных:**
+**Databases:**
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
@@ -29,24 +38,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
 </div>
 
-**Бэкенд:**
+**Tools**
 <div>
-  <img src="https://avatars.githubusercontent.com/u/489566?s=48&v=4" alt="Gorilla Mux" height="50"/>
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" height="50"/>
-  <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" height="50"/>
-  <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="50"/> <!-- REST -->
-</div>
-
-**Фронтенд:**
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
-</div>
-
-**Развертывание:**
-<div>
+  <img src="./icons/grpc-logo.png" alt="gRPC" height="50"/>
+  <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/>
+  <img src="./icons/vs-code-logo.png" alt="git" width="50"/>
 </div>

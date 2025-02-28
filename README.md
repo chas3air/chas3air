@@ -8,8 +8,6 @@
   
 ### Статистика
 
-![Metrics](metrics.plugin.isocalendar.svg)
-
 [![WakaTime](https://wakatime.com/badge/user/051e8565-c1c9-4e5e-8abb-2d4edba6e17d.svg)](https://wakatime.com/@051e8565-c1c9-4e5e-8abb-2d4edba6e17d)
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=chas3air&label=Profile%20views&color=0e75b6&style=flat)

@@ -40,7 +40,21 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+      
+      # Check the return of the previous step
+      - name: Check if files were created
+        run: |
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            echo "File created: dist/github-contribution-grid-snake.svg"
+          else
+            echo "File not created: dist/github-contribution-grid-snake.svg"
+          fi
+          if [ -f dist/github-contribution-grid-snake-dark.svg ]; then
+            echo "File created: dist/github-contribution-grid-snake-dark.svg"
+          else
+            echo "File not created: dist/github-contribution-grid-snake-dark.svg"
+          fi
+
       # Check the contents of the dist directory
       - name: List files in dist directory
         run: ls -la dist

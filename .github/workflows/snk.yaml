@@ -2,7 +2,6 @@ name: Update Snake Animation
 
 on:
   schedule:
-    # Запуск скрипта каждые 2 дня
     - cron: "0 0 */2 * *"
 
 jobs:

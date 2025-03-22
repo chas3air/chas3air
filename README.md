@@ -12,7 +12,7 @@
 - 🌍 I speak Russian (native), English (B1)
 
 <picture>
-  <img alt="github-snake" src="/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <hr>

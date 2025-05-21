@@ -60,7 +60,7 @@
 **Tools:**
 <div>
   <a href="https://grpc.io/" target="_blank">
-    <img src="./icons/grpc-logo.png" alt="gRPC" height="50"/>
+    <img src="./icons/grpc.png" alt="gRPC" height="50"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="50"/>
@@ -74,7 +74,7 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="./icons/vs-code-logo.png" alt="Git" width="50"/>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="50"/>
   </a>
 </div>

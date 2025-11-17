@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Artem</h1>
-<h3 align="center">Golang Backend Developer</h3>
+# Hi there, I'm Artem  
+### Golang Backend Developer  
 
 <hr>
 
@@ -19,13 +19,16 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://t.me/chas3air" target="blank"><img align="center" src="./icons/Telegram_logo.svg.png" alt="daniilshat" height="40" width="40" /></a>
+  <a href="https://t.me/chas3air" target="_blank">
+    <img align="center" src="./icons/Telegram_logo.svg.png" alt="Telegram" height="40" width="40" />
+  </a>
 </p>
+
 
 <hr>
 
 ## 🛠️ Stack
-**Languages:**
+### **Languages:**
 <div>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
@@ -41,7 +44,7 @@
   </a>
 </div>
 
-**Databases:**
+### **Databases:**
 <div>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" height="50"/>
@@ -55,9 +58,12 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
   </a>
+  <a href="https://clickhouse.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" height="50"/>
+  </a>
 </div>
 
-**Tools:**
+### **APIs & Communication**
 <div>
   <a href="https://grpc.io/" target="_blank">
     <img src="./icons/grpc.png" alt="gRPC" height="50"/>
@@ -65,7 +71,14 @@
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="50"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="50"/>
+  </a>
+</div>
+
+### **Infrastructure & DevOps**
+<div>
+    <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank">
@@ -74,7 +87,14 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="50"/>
+</div>
+
+### **Monitoring & Observability**
+<div>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="50"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" height="50"/>
   </a>
 </div>

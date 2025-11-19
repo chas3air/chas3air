@@ -30,17 +30,11 @@
 ## 🛠️ Stack
 ### **Languages:**
 <div>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
-  </a>
   <a href="https://golang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="50"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="./icons/python-logo.jpg" alt="Python" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="50"/>
   </a>
 </div>
 
@@ -95,6 +89,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="50"/>
   </a>
   <a href="https://grafana.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" height="50"/>
+  </a>
+  <a href="https://grafana.com/oss/loki/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" alt="Loki" height="50"/>
   </a>
 </div>

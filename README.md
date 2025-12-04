@@ -4,13 +4,13 @@
 [![WakaTime](https://wakatime.com/badge/user/051e8565-c1c9-4e5e-8abb-2d4edba6e17d.svg)](https://wakatime.com/@051e8565-c1c9-4e5e-8abb-2d4edba6e17d)
 
 
-💻 Уже 3 года создаю распределенные системы  
-⚙️ Люблю CLI, Go и минимализм  
-🌍 Участвую в open-source проектах
+💻 I have been building distributed systems for 3 years  
+⚙️ I love CLI, Go, and minimalism  
+🌍 I contribute to open-source projects
 
 ---
 
-## 🛠️ Технический стек
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" height="40"/>

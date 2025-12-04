@@ -27,7 +27,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40"/>
-  <img src="./icons/grpc.png" alt="gRPC" height="40"/>
+  <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" height="40"/>
   <img src="https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST" height="40"/>
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" height="40"/>
 </p>
